@@ -6,7 +6,7 @@
 | Name          | zID        |
 |----------------|------------|
 | Jerry Zhou     | z5477946   |
-| Member 2       | z          |
+| Zhaoyuan Xu    | z5615760   |
 | Member 3       | z          |
 | Member 4       | z          |
 | Member 5       | z          |
